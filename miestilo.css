@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content {
+    position: static;
+    color: #FFFFFF;
+    background-color: #FED818;
+}
+tbody tr td {
+    background-image: url(images/fondo.jpg);
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: xx-large;
+    text-shadow: 0 0px;
+}
+tr td p {
+    text-align: justify;
+    font-size: x-large;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-decoration: none;
+    color: #FFFFFF;
+    letter-spacing: 1.5pt;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+td p a {
+    color: #FFFFFF;
+    text-align: justify;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+tr td p {
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: justify;
+}
+td p a {
+    color: #FFFD00;
+}
+td p a {
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: justify;
+}
+tr td p {
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: justify;
+}
